@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **soumik-27** — a student passionate about computing, coding, and continuous learning.  
+I'm **soumik ghosh** — a student passionate about computing, coding, and continuous learning.  
 I enjoy building small projects, exploring new languages and tools, and contributing to open-source.
 
 ---
